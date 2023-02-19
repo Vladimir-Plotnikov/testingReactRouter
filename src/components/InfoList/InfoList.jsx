@@ -9,7 +9,7 @@ export function InfoList({ infos }) {
                         key={info.id}
                         info={info}
                     />
-                ))) : (<h1></h1>
+                ))) : (<h1>scrrr</h1>
             )
             }
         </ul>
